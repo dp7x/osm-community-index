@@ -1,0 +1,14 @@
+{
+  "id": "it-marche-telegram",
+  "type": "telegram",
+  "account": "osmmarche",
+  "locationSet": {"include": ["it"]},
+  "languageCodes": ["it"],
+  "order": 3,
+  "strings": {
+    "community": "OpenStreetMap Marche",
+    "communityID": "openstreetmapmarche",
+    "description": "Everybody is welcome! You can enter the chat with this link: {url}",
+    "url": "https://t.me/osmmarche"
+  }
+}
