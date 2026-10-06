@@ -2,7 +2,7 @@
   "id": "it-marche-telegram",
   "type": "telegram",
   "account": "osmmarche",
-  "locationSet": {"include": ["it"]},
+  "locationSet": {"include": ["marche.geojson"]},
   "languageCodes": ["it"],
   "order": 3,
   "strings": {
