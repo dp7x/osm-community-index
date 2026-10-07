@@ -7,8 +7,8 @@
   "order": 3,
   "strings": {
     "community": "OpenStreetMap Marche",
-    "communityID": "openstreetmapmarche",
-    "description": "Everybody is welcome! You can enter the chat with this link: {url}",
+    "communityID": "osmmarche",
+    "description": "Group for mappers from Marche region. You can enter the chat with this link: {url}",
     "url": "https://t.me/osmmarche"
   }
 }
